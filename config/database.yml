@@ -5,7 +5,7 @@ development:
   database: dimstore_development
   pool: 5
   username: postgres
-  password: 
+  password: 123
 
 test:
   adapter: postgresql
@@ -13,7 +13,7 @@ test:
   database: dimstore_test
   pool: 5
   username: postgres
-  password: 
+  password: 123
 
 production:
   adapter: postgresql
@@ -21,4 +21,4 @@ production:
   database: dimstore_production
   pool: 5
   username: postgres
-  password: 
+  password: 123

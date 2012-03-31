@@ -5,7 +5,11 @@ development:
   database: dimstore_development
   pool: 5
   username: postgres
+<<<<<<< HEAD
   password: 123
+=======
+  password: postgres
+>>>>>>> 658e11ced6d1b4b277cc57e4915ddf531d57a005
 
 test:
   adapter: postgresql
@@ -13,7 +17,11 @@ test:
   database: dimstore_test
   pool: 5
   username: postgres
+<<<<<<< HEAD
   password: 123
+=======
+  password: postgres
+>>>>>>> 658e11ced6d1b4b277cc57e4915ddf531d57a005
 
 production:
   adapter: postgresql
@@ -21,4 +29,8 @@ production:
   database: dimstore_production
   pool: 5
   username: postgres
+<<<<<<< HEAD
   password: 123
+=======
+  password: postgres
+>>>>>>> 658e11ced6d1b4b277cc57e4915ddf531d57a005
